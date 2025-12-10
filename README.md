@@ -1,3 +1,3 @@
 
 чтобы запустить dpi 
-python dpi_start_debug py
+python dpi_start_debug.py
